@@ -1,0 +1,14 @@
+# Core Web Framework
+Flask>=3.0.0
+
+# Native MySQL Driver (Pure Python DB-API 2.0 - Zero ORM)
+PyMySQL>=1.1.0
+
+# Password authentication support for MySQL 8+
+cryptography>=42.0.0
+
+# Environment Variable Loader
+python-dotenv>=1.0.0
+
+# Excel file parsing (enables .xlsx import — optional but recommended)
+openpyxl>=3.1.0
